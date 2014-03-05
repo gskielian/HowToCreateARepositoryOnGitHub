@@ -9,7 +9,7 @@ How To Create A Repository On GitHub
 
 4) Fill that box in with a creative short name.
 
-**DONT FORGET TO CHECK THE (Initialize this repository with a README)BOX or you cant edit your repo later!**
+**DONT FORGET TO CHECK THE `Initialize this repository with a README` BOX or you cant edit your repo later!**
 
 5) Then click on the(Create Repository) button.
 
