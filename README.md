@@ -11,6 +11,6 @@ How To Create A Repository On GitHub
 
 **DONT FORGET TO CHECK THE (Initialize this repository with a README)BOX or you cant edit your repo later!**
 
- 5. Then click on the(Create Repository) button.
+ 5[]. Then click on the(Create Repository) button.
 
- 6. Finally click the (README.md) and you click edit and start typing.
+ 6[]. Finally click the (README.md) and you click edit and start typing.
